@@ -1,11 +1,11 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: Hi I'm Qee
+subtitle: BSci, MEng
 layout: layouts/base.njk
 ---
 
 
-## Hi I'm Qee
+## Welcome, and prepare to be impressed
 
 Here's why you should hire me:
 - I have a Masters degree in Engineering (Electrical & Electronics)
